@@ -5,20 +5,6 @@ A aplicação foi construída utilizando boas práticas de desenvolvimento, aute
 
 ---
 
-## 📚 Sumário
-
-1. [Descrição do Projeto](#descrição-do-projeto)  
-2. [Entidades do Sistema](#entidades-do-sistema)  
-3. [Relacionamentos](#relacionamentos)  
-4. [Tecnologias Utilizadas](#tecnologias-utilizadas)  
-5. [Segurança - Spring Security & JWT](#segurança---spring-security--jwt)  
-6. [Testes Automatizados](#testes-automatizados)  
-7. [Como Executar o Projeto Localmente](#como-executar-o-projeto-localmente)  
-8. [Deploy no Render](#deploy-no-render)  
-9. [Endpoints Principais](#endpoints-principais)
-
----
-
 ## 🧾 Descrição do Projeto
 
 O sistema **Farmácia** foi desenvolvido para gerenciar **produtos** e **categorias**, além de contar com a **gestão de usuários** com autenticação segura via JWT.  
